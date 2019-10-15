@@ -1,5 +1,8 @@
 export { ProgresBarPlugin } from './Plugins/plugins';
 
-export { ProgresBar } from './Components/Components';
+
+import ComponentLibrary_ from './Components/Library';
+
+export const ComponentLibrary = ComponentLibrary_
 
 

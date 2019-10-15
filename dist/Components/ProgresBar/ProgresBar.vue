@@ -107,8 +107,6 @@
 
 <style scoped>
 
-    @import "bootstrap.customizer.min.css";
-
     .progressHolder {
         width: 100%;
     }

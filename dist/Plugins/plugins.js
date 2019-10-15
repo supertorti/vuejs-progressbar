@@ -1,1 +1,3 @@
-export { default as ProgresBarPlugin }    from "./ProgressBar/index";
+import ProgresBarPlugin_ from "./ProgressBar/index";
+
+export const ProgresBarPlugin = ProgresBarPlugin_

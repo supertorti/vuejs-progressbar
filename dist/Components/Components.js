@@ -1,1 +1,5 @@
-export { default as ProgresBar } from "./ProgresBar/ProgresBar";
+import ProgresBar_ from "./ProgresBar/ProgresBar";
+
+export const ProgresBar = ProgresBar_
+
+
