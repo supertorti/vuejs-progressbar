@@ -1,4 +1,4 @@
-import ProgressBar  from './component/ProgresBar'
+import ProgresBar from "../../Components/ProgresBar/ProgresBar";
 
 export default {
 
@@ -25,10 +25,10 @@ export default {
 
         let node = document.createElement('div')
         let body = document.querySelector('body')
-            body . appendChild(node)
+            body . appendChild(node);
 
 
-        let progressBar = new ( this.Vue.extend(ProgressBar) )({
+        let progressBar = new ( this.Vue.extend(ProgresBar) )({
             propsData: options
         })
 

@@ -1,1 +1,1 @@
-export {default as ProgresBarPlugin} from "./ProgressBar/index";
+export { default as ProgresBarPlugin }    from "./ProgressBar/index";
