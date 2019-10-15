@@ -1,4 +1,4 @@
 import Plugins from "./Plugins/plugins";
 
-export const Plugins = Plugins;
+export let ProgresBar = Plugins.ProgresBar;
 
