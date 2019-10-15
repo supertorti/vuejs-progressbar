@@ -2,7 +2,7 @@
   "name": "vuejs-progressbar",
   "version": "1.0.0",
   "description": "A Vue-Plugin to show a modal with progressbar",
-  "main": "index.js",
+  "main": "./dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
