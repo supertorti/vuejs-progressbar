@@ -1,4 +1,3 @@
-import Plugins from "./Plugins/plugins";
+export { ProgresBarPlugin } from './Plugins/plugins';
 
-export let ProgresBar = Plugins.ProgresBar;
 
