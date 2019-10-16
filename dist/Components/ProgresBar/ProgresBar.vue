@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="bootstrap">
 
         <div class="modal-backdrop fade show"></div>
 
@@ -29,6 +29,8 @@
 </template>
 
 <script>
+    import '../../Assets/css/bootstrap-prefixed.min.css'
+
     export default {
         name: "progres-bar",
 
