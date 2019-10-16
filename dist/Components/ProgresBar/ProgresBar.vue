@@ -125,9 +125,9 @@
         border: 1px solid #dadcde;
     }
 
-    .modal {
-        position: fixed;
-        top: 35%;
+    .bootstrap .modal {
+        position: fixed!important;
+        top: 35%!important;
         left: 0;
         z-index: 1050;
         display: none;
