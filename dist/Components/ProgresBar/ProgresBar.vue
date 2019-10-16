@@ -29,7 +29,6 @@
 </template>
 
 <script>
-    import '../../Assets/css/bootstrap-prefixed.min.css'
 
     export default {
         name: "progres-bar",
